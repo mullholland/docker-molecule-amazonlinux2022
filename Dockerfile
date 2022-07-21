@@ -28,6 +28,7 @@ RUN dnf makecache \
       ca-certificates \
       iproute \
       util-linux \
+      python-simplejson \
  && dnf clean all
 
 # Disable requiretty.
