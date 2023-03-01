@@ -1,4 +1,4 @@
-FROM amazonlinux:2022
+FROM amazonlinux:2023
 
 LABEL maintainer="mullholland"
 LABEL build_update="2022-12-11"
